@@ -48,8 +48,7 @@ foobar2000-64bit-column-ui-theme/
 │   └── foo_ui_columns-3.1.4.x86-x64.fb2k-component
 │
 ├── config/
-│   ├── foobar2000.cfg
-│   └── theme_files/
+│   └── ColomnUiConfiguration.fcl
 │
 └── screenshots/
     ├── preview1.png
