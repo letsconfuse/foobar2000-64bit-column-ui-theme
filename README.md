@@ -52,8 +52,7 @@ foobar2000-64bit-column-ui-theme/
 │
 └── screenshots/
     ├── preview1.png
-    ├── preview2.png
-    └── preview3.png
+    └── preview2.gif
 ```
 
 ---
