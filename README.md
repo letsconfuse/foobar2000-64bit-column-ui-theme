@@ -5,7 +5,7 @@ A fully customized **foobar2000 v2.x (64-bit)** layout built using **Columns UI*
 ---
 
 ## 📸 Screenshots
-![Screenshot 1](screenshots/preview1.png)
+![Screenshot 1](Screenshots/preview1.png)
 
 
 ---
